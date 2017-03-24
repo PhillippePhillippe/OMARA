@@ -524,6 +524,10 @@ h6,
 #form1-5 .mbr-section-title {
   color: #4d4d4d;
 }
+#msg-box8-e .mbr-section-title,
+#msg-box8-e p {
+  color: #fff;
+}
 #menu-8 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -591,6 +595,9 @@ h6,
 #menu-8 .close-icon::after {
   background-color: #ffffff;
 }
+#features1-d .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -657,4 +664,8 @@ h6,
 #menu-a .close-icon::before,
 #menu-a .close-icon::after {
   background-color: #ffffff;
+}
+#msg-box6-c .mbr-section-title,
+#msg-box6-c .lead p {
+  color: #fff;
 }
