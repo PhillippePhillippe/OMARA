@@ -1,6 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -412,17 +413,27 @@ h6,
   opacity: 0 !important;
 }
 #slider-0 H2 {
-  font-size: 48px;
+  font-size: 32px;
+  text-align: center;
+  font-family: 'Lora', serif;
+  color: #ffffff;
 }
 #slider-0 P {
   color: #ffffff;
+  text-align: right;
 }
 #slider-0 B {
   font-size: 48px;
 }
-#social-buttons2-4 .mbr-section-title,
-#social-buttons2-4 .btn-social {
+#social-buttons2-b .mbr-section-title,
+#social-buttons2-b .btn-social {
   color: #232323;
+}
+#gallery3-1 .mbr-gallery-item > div > span P {
+  text-align: center;
+}
+#gallery3-1 .mbr-gallery-item > div > span {
+  text-align: center;
 }
 #msg-box8-2 .mbr-section-title,
 #msg-box8-2 p {
@@ -435,15 +446,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-6 .navbar-toggler {
-  color: #ffffff;
+  color: #a38f84;
 }
 #ext_menu-6 .close-icon::before,
 #ext_menu-6 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #a38f84;
 }
 #ext_menu-6 .link,
 #ext_menu-6 .dropdown-item {
-  color: #ffffff;
+  color: #a38f84;
 }
 #ext_menu-6 .link {
   font-size: 0.75rem;
@@ -460,22 +471,22 @@ h6,
 }
 #ext_menu-6 .link[aria-expanded="true"],
 #ext_menu-6 .dropdown-menu {
-  background: #0e0e0e;
+  background: #e6e6e6;
 }
 #ext_menu-6 .nav-dropdown-sm .link:focus,
 #ext_menu-6 .nav-dropdown-sm .link:hover,
 #ext_menu-6 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-6 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #f7f7f7!important;
 }
 #ext_menu-6 .navbar,
 #ext_menu-6 .nav-dropdown-sm,
 #ext_menu-6 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-6 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #ffffff;
 }
 #ext_menu-6 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #a38f84;
   transition: none;
 }
 #ext_menu-6 .bg-color.transparent.opened .link {
